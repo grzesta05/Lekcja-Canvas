@@ -1,0 +1,4 @@
+Wprowadzenie do canvas - 5 minut
+	- co to canvas
+	- Możliwości Canvas
+	- implementacja canvas
